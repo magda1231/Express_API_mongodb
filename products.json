@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Product1",
+    "price": 100,
+    "description": "Opis produktu",
+    "amount": 10,
+    "currency": "PLN",
+    "category": "furniture"
+  },
+  {
+    "id": 2,
+    "name": "Produc2",
+    "price": 20,
+    "description": "Opis produktu2",
+    "amount": 15,
+    "currency": "PLN",
+    "category": "accessories"
+  },
+  {
+    "id": 3,
+    "name": "Produc3",
+    "price": 10,
+    "description": "Opis produktu3",
+    "amount": 20,
+    "currency": "PLN",
+    "category": "clothes"
+  },
+  {
+    "id": 4,
+    "name": "Produc4",
+    "price": 30,
+    "description": "Opis produktu4",
+    "amount": 25,
+    "currency": "PLN",
+    "category": "boots"
+  }
+]
